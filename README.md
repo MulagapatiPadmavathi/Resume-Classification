@@ -24,8 +24,8 @@ The system extracts and processes text for relevant features.
 The trained model predicts the job category based on extracted information.
 The results are displayed in an intuitive Streamlit dashboard.
 
-Project Impact
+Project Impact :
 This project significantly enhances HR efficiency by reducing manual effort in resume screening. It enables fast, automated classification of resumes into relevant job roles, improving the recruitment process.
 
-Contributing
+Contributing : 
 Contributions are welcome! Feel free to suggest improvements or report issues.
