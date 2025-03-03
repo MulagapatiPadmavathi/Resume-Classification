@@ -1,7 +1,7 @@
 # Resume Classification Project  
 
 ## Overview  
-The Resume Classification Project automates resume screening using **Natural Language Processing (NLP)** and **Machine Learning**, reducing manual HR effort. It extracts and processes text from resumes in **.pdf, .doc, and .docx** formats, applies **TF-IDF vectorization** and **label encoding**, and classifies resumes into predefined job roles using a **Random Forest Classifier**. The project is deployed via **Streamlit** for easy accessibility.  
+The Resume Classification Project automates resume screening using **Natural Language Processing (NLP)** and **Machine Learning**, reducing manual HR effort. It extracts and processes text from resumes in **.pdf, .doc, and .docx** formats, applies **TF-IDF vectorization** and **label encoding**, and classifies resumes into predefined job roles using a **Decision Tree Classifier**. The project is deployed via **Streamlit** for easy accessibility.  
 
 ## Features  
 - **Resume Parsing** – Extracts text from **.pdf, .doc, and .docx** files.  
