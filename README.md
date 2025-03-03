@@ -16,7 +16,7 @@ The Resume Classification Project automates resume screening using **Natural Lan
 ## Technology Stack  
 - **Programming Language**: Python  
 - **Libraries & Tools**: pandas, scikit-learn, nltk, pdfminer, docx  
-- **Machine Learning Model**: Random Forest Classifier  
+- **Machine Learning Model**: Decision Tree Classifier  
 - **Deployment Framework**: Streamlit  
 
 ## How It Works  
